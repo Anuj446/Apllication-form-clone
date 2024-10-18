@@ -1,0 +1,33 @@
+.heading{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.line{
+    display:flex;
+    align-items:center;
+}
+fieldset{
+    display: flex;
+    justify-content:space-around;
+    border:1px solid black;
+}
+.start{
+    border:2px solid black
+}
+#hello{
+    box-sizing: 10px;
+}
+.end{
+    height:60px;
+    width: 300px;
+    background-color:red;
+    color:white;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.okk{
+    display: flex;
+    justify-content: center;
+}
